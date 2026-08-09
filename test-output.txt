@@ -1,0 +1,23 @@
+10:32:40.957 -> EVENT   : SPATIAL INVERSION / ROLLOVER
+10:32:40.957 -> ROLL    : -12.62
+10:32:40.957 -> PITCH   : -61.99
+10:32:40.957 -> GPS     : ACQUIRING ORBITAL LOCK...
+10:32:40.957 -> ─────────────────────────────────
+
+10:32:44.444 -> EVENT   : SPATIAL INVERSION / ROLLOVER
+10:32:44.517 -> ROLL    : 64.97
+10:32:44.517 -> PITCH   : -65.18
+10:32:44.517 -> GPS     : ACQUIRING ORBITAL LOCK...
+10:32:44.517 -> ─────────────────────────────────
+
+10:32:46.460 -> EVENT   : SPATIAL INVERSION / ROLLOVER
+10:32:46.494 -> ROLL    : -75.39
+10:32:46.494 -> PITCH   : 65.01
+10:32:46.494 -> GPS     : ACQUIRING ORBITAL LOCK...
+10:32:46.494 -> ─────────────────────────────────
+
+10:32:51.106 -> EVENT   : SPATIAL INVERSION / ROLLOVER
+10:32:51.159 -> ROLL    : -62.70
+10:32:51.159 -> PITCH   : 6.60
+10:32:51.159 -> GPS     : ACQUIRING ORBITAL LOCK...
+10:32:51.159 -> ─────────────────────────────────
