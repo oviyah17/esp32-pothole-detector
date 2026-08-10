@@ -31,7 +31,7 @@ The prototype implements two detection conditions:
 
 ## Test Output
 
-The recorded Serial Monitor output is available in [test-output.txt](test-output.txt).
+The recorded Serial Monitor output is available in [test-output.txt](test-output.txt) and [test-output.png](https://github.com/oviyah17/esp32-pothole-and-rollover-detection/blob/main/Test%20Output.jpg)
 
 ## Prototype Demonstration
 
